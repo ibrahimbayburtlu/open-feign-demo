@@ -33,4 +33,3 @@ Bu demo projesi, Math ve Presentation adında iki servisi içermektedir.
 
 ---
 
-Bu README.md dosyası, Metin Alnıacık'ın "Feign Client ve OpenFeign Kullanarak Servisler Arası İletişim Kurmak" başlıklı makalesi temel alınarak oluşturulmuştur.
